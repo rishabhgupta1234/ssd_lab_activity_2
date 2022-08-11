@@ -9,4 +9,5 @@
    
 2.)Instruction for question 2 ques2.sh
    To run the bash script, run the command 
+   In this question I have created a extra file named shellhistory.txt for intermediate processing.
    ./ques2.sh
